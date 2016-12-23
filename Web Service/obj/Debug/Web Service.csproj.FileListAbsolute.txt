@@ -2,6 +2,7 @@ C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Serv
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\Web Service.dll
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\Web Service.pdb
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\EntityFramework.dll
+C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\EntityFramework.SqlServer.dll
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\HtmlAgilityPack.dll
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\Newtonsoft.Json.dll
@@ -18,6 +19,7 @@ C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Serv
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.dll
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Razor.dll
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\EntityFramework.xml
+C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\EntityFramework.SqlServer.xml
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\HtmlAgilityPack.pdb
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\HtmlAgilityPack.xml
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\Newtonsoft.Json.xml
@@ -32,6 +34,5 @@ C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Serv
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.xml
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Deployment.xml
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\bin\System.Web.WebPages.Razor.xml
-C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.dll
 C:\Users\quang\Downloads\Compressed\Website CookBook\Source\Web Service\Web Service\obj\Debug\Web Service.pdb
